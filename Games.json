@@ -1,23 +1,57 @@
 [
-    {
-        "id": 1,
-        "title": "Content Warning",
-        "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
-        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.jpg",
-        "rating": 9.8,
-        "tags": ["Single Player", "Open World", "Story", "Action"],
-        "featured": true,
-        "link": "htpps:///dsadasd"
-    },
-    {
-      "id": 2,
-      "title": "Red Dead Redemption 2",
-      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
-      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg",
-      "rating": 9.8,
-      "tags": ["Single Player", "Open World", "Story", "Action"],
-      "featured": true,
-      "link": "htpps:///dsadasd"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Content Warning",
+    "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.jpg",
+    "logo": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.jpg",
+    "rating": 9.8,
+    "tags": ["Single Player", "Horror", "Open World", "Action"],
+    "featured": true,
+    "link": "https://example.com/1"
+  },
+  {
+    "id": 2,
+    "title": "Red Dead Redemption 2",
+    "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.jpg",
+    "logo": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.jpg",
+    "rating": 9.8,
+    "tags": ["Single Player", "Open World", "Story", "Action", "Multiplayer"],
+    "featured": true,
+    "link": "https://example.com/2"
+  },
+  {
+    "id": 3,
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "The Witcher 3: Wild Hunt is a story-driven, open-world RPG with a rich narrative, deep character development, and intense combat mechanics. Embark on an epic journey as Geralt of Rivia, a monster hunter, as he searches for his adopted daughter.",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/ss_11f6e8b8c47d1a742637f441497a9305c9c3a105.jpg",
+    "logo": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/ss_11f6e8b8c47d1a742637f441497a9305c9c3a105.jpg",
+    "rating": 9.9,
+    "tags": ["Single Player", "RPG", "Open World", "Fantasy", "Action"],
+    "featured": true,
+    "link": "https://example.com/3"
+  },
+  {
+    "id": 4,
+    "title": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 is a futuristic open-world RPG set in the dystopian Night City. Play as V, a mercenary who becomes entangled in a high-stakes quest to find immortality, battling gangs, corporations, and corrupt officials.",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/ss_129c2cf82b82730b548ec8c7b7de92a760da18d6.jpg",
+    "logo": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/ss_129c2cf82b82730b548ec8c7b7de92a760da18d6.jpg",
+    "rating": 8.5,
+    "tags": ["Single Player", "RPG", "Open World", "Action", "Sci-Fi"],
+    "featured": true,
+    "link": "https://example.com/4"
+  },
+  {
+    "id": 5,
+    "title": "Half-Life: Alyx",
+    "description": "Half-Life: Alyx is a first-person virtual reality shooter that takes place between the events of Half-Life 1 and Half-Life 2. Players take on the role of Alyx Vance as she battles the alien Combine forces to retrieve a critical piece of technology.",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/ss_5b2076485477f973b18a7a5a27b94acb78e5191d.jpg",
+    "logo": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/ss_5b2076485477f973b18a7a5a27b94acb78e5191d.jpg",
+    "rating": 9.6,
+    "tags": ["VR", "Single Player", "Action", "Sci-Fi", "Shooter"],
+    "featured": true,
+    "link": "https://example.com/5"
+  }
+]
