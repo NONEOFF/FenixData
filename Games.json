@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Elden Ring",
+      "description": "An action role-playing game developed by FromSoftware",
+      "image": "/api/placeholder/300/200",
+      "rating": 9.5,
+      "tags": ["Single Player", "Action RPG", "Open World", "Story"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Red Dead Redemption 2",
+      "description": "Epic tale of life in America's unforgiving heartland",
+      "image": "/api/placeholder/300/200",
+      "rating": 9.8,
+      "tags": ["Single Player", "Open World", "Story", "Action"],
+      "featured": true
+    }
+  ]
+  
